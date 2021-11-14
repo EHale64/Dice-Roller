@@ -1,5 +1,5 @@
 from random import randint
-# import statistics
+from tkinter import *
 
 rolls = []
 def roll_many(n, x):
